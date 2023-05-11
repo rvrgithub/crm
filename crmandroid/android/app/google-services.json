@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379804430028",
+    "project_id": "qwecz-f46f2",
+    "storage_bucket": "qwecz-f46f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379804430028:android:103128d98924795fe5dc69",
+        "android_client_info": {
+          "package_name": "com.crmandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379804430028-1voqqqv17l1pc338s9fbeskocq6nuanj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4QX6lIePu2USUeYc19ghHVJ1by4oC32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379804430028-1voqqqv17l1pc338s9fbeskocq6nuanj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
